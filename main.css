@@ -1,22 +1,22 @@
 @keyframes triggered {
 	0% {
 		background: red;
-		transform: rotateX(0deg);
+		
 	}
 	
 	33% {
 		background: green;
-		transform: rotateX(120deg);
+		
 	}
 	
 	67% {
 		background: blue;
-		transform: rotateX(240deg);
+		
 	}
 	
 	100% {
 		background: white;
-		transform: rotateX(360deg);
+		
 	}
 }
 
