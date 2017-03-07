@@ -20,7 +20,7 @@
 	}
 }
 
-* { animation: triggered 0.2s infinite; }
+* { animation: triggered 10s infinite; }
 
 .m8{ background-image: url("https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fdme-world.net%2Fwp-content%2Fuploads%2F2014%2F11%2FWhite-Background-Images-HD-Iphone-Wallpapers-Backgrounds.jpg&f=1");
 }
